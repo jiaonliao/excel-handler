@@ -4,7 +4,7 @@
 <p style="margin-bottom: 10px;font-weight: bold">
 💼 使用JavaScript快速编辑表格的可视化客户端
 </p>
-<img src="./assets/images/img.png">
+<img width="450" src="./assets/images/img.png">
 </div>
 
 ### Start Project
