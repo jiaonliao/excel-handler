@@ -24,3 +24,4 @@ yarn-error.log*
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/jsLibraryMappings.xml
 /.idea/git_toolbox_prj.xml
+/.idea
