@@ -1,5 +1,5 @@
 
-<div style="display: flex;flex-flow: column;align-items: center">
+<div align="center" style="display: flex;flex-flow: column;align-items: center">
 <h3>Excel Handler</h3>
 <span style="margin-bottom: 10px;font-weight: bold">
 💼 使用JavaScript快速编辑表格的可视化客户端
